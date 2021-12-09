@@ -3,6 +3,12 @@ Chrome Extension Example using React
 
 * Material UI included
 
+First run:
+
+```
+npm install
+```
+
 * Build the Chrome Extension with:
 
 ```
